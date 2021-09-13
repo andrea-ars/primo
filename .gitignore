@@ -1,3 +1,7 @@
+primo.txt
+node_modules/**
+**.jpg
+
 # Logs
 logs
 *.log
